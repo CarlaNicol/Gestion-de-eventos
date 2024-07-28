@@ -12,7 +12,7 @@ Este proyecto es una aplicación Django para la gestión de eventos. Permite cre
 
 1. Clonar el repositorio:
     ```
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/CarlaNicol/Gestion-de-eventos.git
     cd eventos
     ```
 
